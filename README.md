@@ -1,6 +1,6 @@
 README
 
-Here's a breakdown of the Python script's functionality, formatted for a README.md file:
+Python script's functionality:
 
 **Title: Data Clustering for Marketing Analysis**
 
