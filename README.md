@@ -2,9 +2,9 @@ README
 
 **projeto de análise de dados do Google Analytcs (GA)**
 
-*GA - dados de acesso a sites das lojas*
-*Segmentação utilizando PCA e Kmeans para criação de dashboard analítico*
-*Dashboard - resultado dos clusters para posterior análise de time de MKT para criação de "personas" para campanhas"*
+1- *GA - dados de acesso a sites das lojas*
+2- *Segmentação utilizando PCA e Kmeans para criação de dashboard analítico*
+3- *Dashboard - resultado dos clusters para posterior análise de time de MKT para criação de "personas" para campanhas"*
 
 
 ![dash1](figs/dash1.png)
