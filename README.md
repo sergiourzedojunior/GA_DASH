@@ -82,7 +82,7 @@ Absolutely! Here's a breakdown of the script, continuing the numbering for clari
 
 **10. Saving Figures**
 
-* Uses Python's `pickle` module to serialize and save the `figs` dictionary (containing all generated Plotly figures) into files named 'figs.pkl', etc.  This allows you to reload and use these figures later without regenerating them.
+* Uses Python's `pickle` module to serialize and save the `figs` dictionary (containing all generated Plotly figures) into files named 'figs.pkl', etc.  This allows to reload and use these figures later without regenerating them.
 
 **11. App Dashboard**
 
