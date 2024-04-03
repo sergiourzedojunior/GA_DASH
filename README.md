@@ -1,6 +1,4 @@
-README
-
-**projeto de análise de dados do Google Analytcs (GA)**
+## Projeto de análise de dados do Google Analytcs (GA)
 
 1- *GA - dados de acesso a sites das lojas*
 2- *Segmentação utilizando PCA e Kmeans para criação de dashboard analítico*
